@@ -1,0 +1,10 @@
+_site
+.sass-cache
+.jekyll-metadata
+
+.DS_Store
+__includes
+__layouts
+__posts
+_about.md
+_julius.md
