@@ -7,14 +7,14 @@ layout: home
 
 ## The 2018–2019 9 Dots Get Coding Fellows are…
 
-[Moira]({{ "/fellows/moira/" | relativeurl }})
+[Moira]({{ "/fellows/moira/" | relative_url }})
 
-[Alexis]({{ "/fellows/alexis/" | relativeurl }})
+[Alexis]({{ "/fellows/alexis/" | relative_url }})
 
-[Joey]({{ "/fellows/joey/" | relativeurl }})
+[Joey]({{ "/fellows/joey/" | relative_url }})
 
-[Jose]({{ "/fellows/jose/" | relativeurl }})
+[Jose]({{ "/fellows/jose/" | relative_url }})
 
-[Valerie]({{ "/fellows/valerie/" | relativeurl }})
+[Valerie]({{ "/fellows/valerie/" | relative_url }})
 
-[Anh]({{ "/fellows/anh/" | relativeurl }})
+[Anh]({{ "/fellows/anh/" | relative_url }})

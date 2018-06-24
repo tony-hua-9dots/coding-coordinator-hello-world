@@ -18,7 +18,7 @@
 
         <div class="trigger">
           {%- for fellow in site.data.fellows -%}
-          <a class="page-link" href="{{ fellow.url | relativeurl }}">{{ fellow.name }}</a>
+          <a class="page-link" href="{{ fellow.url | relative_url }}">{{ fellow.name }}</a>
           {%- endfor -%}
         </div>
       </nav>
