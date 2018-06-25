@@ -26,7 +26,7 @@ In the open source world, you're encouraged to build on existing code and contri
 
 Click that **Fork** button!
 
-!(https://help.github.com/assets/images/help/repository/fork_button.jpg)
+![fork](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 
 ### Find **your** file
 
@@ -55,11 +55,11 @@ To make a pull request, you'll
 
 * head back to the original project repo
 * find a button that says **New pull request**—one is immediately visible, and you might stumble upon the other if you clicked on something related to pull requests
-* click **compare across forks** !(https://help.github.com/assets/images/help/pull_requests/compare-across-forks-link.png)
+* click **compare across forks** ![compare across forks](https://help.github.com/assets/images/help/pull_requests/compare-across-forks-link.png)
 * on the left, make sure your base fork is **julescubtree/fellow-hello-world** and your base branch is **gh-pages**
 * on the right, make sure the head fork is your own, with base branch **gh-pages**
-* enter a title and description for your pull request !(https://help.github.com/assets/images/help/pull_requests/pullrequest-description.png)
-* click **Create pull request** !(https://help.github.com/assets/images/help/pull_requests/pullrequest-send.png)
+* enter a title and description for your pull request ![pull request title and description](https://help.github.com/assets/images/help/pull_requests/pullrequest-description.png)
+* click **Create pull request** ![create pull request](https://help.github.com/assets/images/help/pull_requests/pullrequest-send.png)
 
 ### Now what?
 
