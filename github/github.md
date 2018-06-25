@@ -37,6 +37,8 @@ If you find it really fast, and your fellow fellows could use some help, help aw
 
 ### Make your file your own
 
+![edit your file]({{ "/github/Edit_file.png" | relative_url }})
+
 Once you've found your file, edit it! You're free to be ultra-traditional and leave "Hello, world!" in there, but you don't have to.
 
 There's a header section up top marked by three hyphens on the top and the bottom; there you can change the page title.
@@ -44,6 +46,8 @@ There's a header section up top marked by three hyphens on the top and the botto
 You're also free to change anything outside the header. The file is in a language called [Markdown](https://daringfireball.net/projects/markdown/), which is designed to streamline formatting for websites. (It's certainly quicker than HTML.) You can check out this sweet [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), or even the [source code](https://raw.githubusercontent.com/julescubtree/fellow-hello-world/gh-pages/github/github.md) of this web page to see **some** _things you can do_.
 
 When you're done editing, you're going to commit (i.e. save) your changes way down at the bottom. Select the option to **Commit directly** to the current branch.
+
+![commit your changes]({{ "/github/Commit_changes.png" | relative_url }})
 
 ### Submit a pull request
 
