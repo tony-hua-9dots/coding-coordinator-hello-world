@@ -26,7 +26,7 @@ In the open source world, you're encouraged to build on existing code and contri
 
 Click that **Fork** button!
 
-![fork](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+![fork]({{ "/github/fork_button.jpg" | relative_url }})
 
 ### Find **your** file
 
@@ -43,7 +43,7 @@ Once you've found your file, edit it! You're free to be ultra-traditional and le
 
 There's a header section up top marked by three hyphens on the top and the bottom; there you can change the page title.
 
-You're also free to change anything outside the header. The file is in a language called [Markdown](https://daringfireball.net/projects/markdown/), which is designed to streamline formatting for websites. (It's certainly quicker than HTML.) You can check out this sweet [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), or even the [source code](https://raw.githubusercontent.com/julescubtree/fellow-hello-world/gh-pages/github/github.md) of this web page to see _some_ **things** you can do.
+You're also free to change anything outside the header. The file is in a language called [Markdown](https://daringfireball.net/projects/markdown/), which is designed to streamline formatting for websites. (It's certainly quicker than HTML.) You can check out this sweet [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), or even the [source code](https://raw.githubusercontent.com/julescubtree/fellow-hello-world/gh-pages/github/github.md) of this web page to see **some** _things you can do_.
 
 When you're done editing, you're going to commit (i.e. save) your changes way down at the bottom. Select the option to **Commit directly** to the current branch.
 
@@ -55,11 +55,11 @@ To make a pull request, you'll
 
 * head back to the original project repo
 * find a button that says **New pull request**—one is immediately visible, and you might stumble upon the other if you clicked on something related to pull requests
-* click **compare across forks** ![compare across forks](https://help.github.com/assets/images/help/pull_requests/compare-across-forks-link.png)
+* click **compare across forks** ![compare across forks]({{ "/github/compare-across-forks-link.png" | relative_url }})
 * on the left, make sure your base fork is **julescubtree/fellow-hello-world** and your base branch is **gh-pages**
 * on the right, make sure the head fork is your own, with base branch **gh-pages**
-* enter a title and description for your pull request ![pull request title and description](https://help.github.com/assets/images/help/pull_requests/pullrequest-description.png)
-* click **Create pull request** ![create pull request](https://help.github.com/assets/images/help/pull_requests/pullrequest-send.png)
+* enter a title and description for your pull request ![pull request title and description]({{ "/github/pullrequest-description.png" | relative_url }})
+* click **Create pull request** ![create pull request]({{ "/github/pullrequest-send.png" | relative_url }})
 
 ### Now what?
 
