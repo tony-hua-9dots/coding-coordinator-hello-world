@@ -43,7 +43,7 @@ Once you've found your file, edit it! You're free to be ultra-traditional and le
 
 There's a header section up top marked by three hyphens on the top and the bottom; there you can change the page title.
 
-You're also free to change anything outside the header. The file is in a language called [Markdown](https://daringfireball.net/projects/markdown/), which is designed to streamline formatting for websites. (It's certainly quicker than HTML, which is a mark_up_ language—hence the nerdy punny name.) You can check out this sweet [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), or even the [source code](https://raw.githubusercontent.com/julescubtree/fellow-hello-world/gh-pages/github/github.md) of this web page to see **some** _things you can do_.
+You're also free to change anything outside the header. The file is in a language called [Markdown](https://daringfireball.net/projects/markdown/), which is designed to streamline formatting for websites. (It's certainly quicker than HTML, which is a mark*up* language—hence the nerdy punny name.) You can check out this sweet [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), or even the [source code](https://raw.githubusercontent.com/julescubtree/fellow-hello-world/gh-pages/github/github.md) of this web page to see **some** *things you can do*.
 
 When you're done editing, you're going to commit (i.e. save) your changes way down at the bottom. Select the option to **Commit directly** to the current branch.
 
