@@ -1,8 +1,8 @@
 ---
-layout: home
+title: Welcome, fellows!
+layout: page
 permalink: /welcome/
 ---
 
-### Welcome, fellows!
 
 _Love, 9 Dots_
