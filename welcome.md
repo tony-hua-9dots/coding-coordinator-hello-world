@@ -5,4 +5,4 @@ permalink: /welcome/
 ---
 
 
-_Love, 9 Dots_
+_Love, 9 Dots... and Hedy! :-)_
