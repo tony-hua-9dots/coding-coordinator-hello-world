@@ -11,7 +11,7 @@ Creates a new branch.
 Sets _remote_branch_name_ as the upstream of your current branch, so you can use git push without arguments (among other things).
 
 ### git checkout [_branch_name_]
-Switches to _branch_name_.
+Switches branches.
 
 ### git checkout -b [_new_branch_name_]
 Creates a new branch and checks it out.
@@ -28,7 +28,7 @@ Merges _branch_name_ into your current branch.
 ### git push
 Pushes your current branch to its upstream branch. Only works if an upstream has been set.
 
-### git push origin [_remote_branch_name_[]
+### git push origin [_remote_branch_name_]
 Pushes your current branch to _remote_branch_name_ on the remote origin repository.
 
 ### git push -u origin [_remote_branch_name_]
