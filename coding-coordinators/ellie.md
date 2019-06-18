@@ -3,4 +3,4 @@ layout: page
 title: Ellie
 permalink: /ccs/ellie/
 ---
-Hello, World!
+Hi, fellow coding coordinators
