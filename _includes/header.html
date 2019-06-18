@@ -17,14 +17,14 @@
         </label>
 
         <div class="trigger">
-          {%- for cc in site.data.ccs -%}
-          <a class="page-link" href="{{ cc.url | relative_url }}">{{ cc.name }}</a>
-          {%- endfor -%}
-        </div>
-        <div class="trigger">
           <a class="page-link" href="/coding-coordinator-hello-world/github/">GitHub Tutorial</a>
           <a class="page-link" href="/coding-coordinator-hello-world/welcome/">Welcome!</a>
           <a class="page-link" href="/coding-coordinator-hello-world/alums/">Past Cohorts</a>
+        </div>
+        <div class="trigger">
+          {%- for cc in site.data.ccs -%}
+          <a class="page-link" href="{{ cc.url | relative_url }}">{{ cc.name }}</a>
+          {%- endfor -%}
         </div>
       </nav>
     {%- endif -%}
