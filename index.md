@@ -5,16 +5,18 @@ layout: home
 title: 9 Dots Coding Coordinators
 ---
 
-### Our 2018–2019 Fellows are…
+### Our 2019–2020 Coding Coordinators are…
 
-[Moira]({{ "/fellows/moira/" | relative_url }}) (Education)
+[Ellie]({{ "/ccs/ellie/" | relative_url }})
 
-[Alexis]({{ "/fellows/alexis/" | relative_url }}) (Computer Science)
+[Francisco]({{ "/ccs/francisco/" | relative_url }})
 
-[Joey]({{ "/fellows/joey/" | relative_url }}) (Education)
+[Michaela]({{ "/ccs/michaela/" | relative_url }})
 
-[Jose]({{ "/fellows/jose/" | relative_url }}) (Education)
+[Paul]({{ "/ccs/paul/" | relative_url }})
 
-[Valerie]({{ "/fellows/valerie/" | relative_url }}) (Education)
+[Sophie]({{ "/ccs/sophie/" | relative_url }})
 
-[Anh]({{ "/fellows/anh/" | relative_url }}) (Computer Science)
+[Tony]({{ "/ccs/tony/" | relative_url }})
+
+[Yoanna]({{ "/ccs/yoanna/" | relative_url }})
