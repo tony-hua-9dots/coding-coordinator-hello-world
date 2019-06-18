@@ -5,7 +5,7 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
-    {%- if site.data.fellows -%}
+    {%- if site.data.ccs -%}
       <nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
         <label for="nav-trigger">
@@ -19,8 +19,8 @@
         <div class="trigger">
           <a class="page-link" href="/coding-coordinator-hello-world/github/">GitHub Tutorial</a>
           <a class="page-link" href="/coding-coordinator-hello-world/welcome/">Welcome!</a>
-          {%- for fellow in site.data.fellows -%}
-          <a class="page-link" href="{{ fellow.url | relative_url }}">{{ fellow.name }}</a>
+          {%- for cc in site.data.ccs -%}
+          <a class="page-link" href="{{ cc.url | relative_url }}">{{ cc.name }}</a>
           {%- endfor -%}
           <a class="page-link" href="/coding-coordinator-hello-world/alums/">Past Cohorts</a>
         </div>
