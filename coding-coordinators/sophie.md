@@ -3,4 +3,6 @@ layout: page
 title: Sophie
 permalink: /ccs/sophie/
 ---
-Hello, World!
+Hello, World! My name is Sophie !!!!!
+
+:^)
