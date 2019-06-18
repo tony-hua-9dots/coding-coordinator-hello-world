@@ -1,5 +1,5 @@
 ---
-title: Welcome, fellows!
+title: Welcome, coding coordinators!
 layout: page
 permalink: /welcome/
 ---

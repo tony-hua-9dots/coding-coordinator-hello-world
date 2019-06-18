@@ -16,7 +16,7 @@ If you don't, [sign up](https://github.com/join?source=header-home)!
 2. Select the **Unlimited public repositories for free** option.
 3. Verify your email.
 
-### Fork this website's [repository](https://github.com/julescubtree/fellow-hello-world/)
+### Fork this website's [repository](https://github.com/julescubtree/coding-coordinator-hello-world/)
 
 A repository (repo for short) is a collection of the source code for a software project.
 
@@ -33,7 +33,7 @@ In our repo, and now in yours, there's a file just for you. Can you find it? You
 * find your fork of our repo (maybe find your own GitHub profile page first?)
 * poke around in some code and some folders
 
-If you find it really fast, and your fellow fellows could use some help, help away.
+If you find it really fast, and others in your coding coordinator cohort could use some help, help away.
 
 ### Make your file your own
 
@@ -43,7 +43,7 @@ Once you've found your file, edit it! You're free to be ultra-traditional and le
 
 There's a header section up top marked by three hyphens on the top and the bottom; there you can change the page title.
 
-You're also free to change anything outside the header. The file is in a language called [Markdown](https://daringfireball.net/projects/markdown/), which is designed to streamline formatting for websites. (It's certainly quicker than HTML, which is a mark*up* language—hence the nerdy punny name.) You can check out this sweet [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), or even the [source code](https://raw.githubusercontent.com/julescubtree/fellow-hello-world/gh-pages/github/github.md) of this web page to see **some** *things you can do*.
+You're also free to change anything outside the header. The file is in a language called [Markdown](https://daringfireball.net/projects/markdown/), which is designed to streamline formatting for websites. (It's certainly quicker than HTML, which is a mark*up* language—hence the nerdy punny name.) You can check out this sweet [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), or even the [source code](https://raw.githubusercontent.com/julescubtree/coding-coordinator-hello-world/gh-pages/github/github.md) of this web page to see **some** *things you can do*.
 
 When you're done editing, you're going to commit (i.e. save) your changes way down at the bottom. Select the option to **Commit directly** to the current branch.
 
@@ -58,7 +58,7 @@ To make a pull request, you'll
 * head back to the original project repo
 * find a button that says **New pull request**—one is immediately visible, and you might stumble upon the other if you clicked on something related to pull requests
 * click **![compare across forks]({{ "/github/compare-across-forks-link.png" | relative_url }})**
-* on the left, make sure your base fork is **julescubtree/fellow-hello-world** and your base branch is **gh-pages**
+* on the left, make sure your base fork is **julescubtree/coding-coordinator-hello-world** and your base branch is **gh-pages**
 * on the right, make sure the head fork is your own, with base branch **gh-pages**
 * enter a title and description for your pull request ![pull request title and description]({{ "/github/pullrequest-description.png" | relative_url }})
 * click **![Create pull request]({{ "/github/pullrequest-send.png" | relative_url }})**

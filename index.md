@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-title: 9 Dots Get Coding Fellows
+title: 9 Dots Coding Coordinators
 ---
 
 ### Our 2018–2019 Fellows are…
